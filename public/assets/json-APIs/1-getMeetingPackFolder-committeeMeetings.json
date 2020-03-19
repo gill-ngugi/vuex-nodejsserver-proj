@@ -1,0 +1,67 @@
+{
+    "success": 1,
+    "message": "Meeting Pack Folder Contents",
+    "data": {
+        "itemId": "1086",
+        "companyName": "STL Vision",
+        "itemBriefcaseType": "2",
+        "companyId": "2",
+        "itemParentId": "0",
+        "itemName": "Committee Meetings",
+        "itemType": "1",
+        "itemUrl": "Committee Meetings#:#1086",
+        "itemSize": "5900451",
+        "itemUploadedBy": "",
+        "itemLastUpdatedOn": "1567607540",
+        "itemCreatedOn": "1567607540",
+        "itemCount": 3,
+        "itemSubArray": [
+            {
+                "itemId": "1309",
+                "companyName": "STL Vision",
+                "companyId": "2",
+                "itemCount": 2,
+                "itemName": "Audit Committee",
+                "itemParentId": "1086",
+                "itemType": "1",
+                "itemUrl": "Committee Meetings#:#1086#/#Audit Committee#:#1309",
+                "itemSize": "2158319",
+                "itemUploadedBy": "",
+                "itemBriefcaseType": "2",
+                "itemLastUpdatedOn": "1567415198",
+                "itemCreatedOn": "1567415198"
+            },
+            {
+                "itemId": "1310",
+                "companyName": "STL Vision",
+                "companyId": "2",
+                "itemCount": 2,
+                "itemName": "Credit Committee",
+                "itemParentId": "1086",
+                "itemType": "1",
+                "itemUrl": "Committee Meetings#:#1086#/#Credit Committee#:#1310",
+                "itemSize": "2159381",
+                "itemUploadedBy": "",
+                "itemBriefcaseType": "2",
+                "itemLastUpdatedOn": "1567415090",
+                "itemCreatedOn": "1567415090"
+            },
+            {
+                "itemId": "1311",
+                "companyName": "STL Vision",
+                "companyId": "2",
+                "itemCount": 1,
+                "itemName": "HR Committee",
+                "itemParentId": "1086",
+                "itemType": "1",
+                "itemUrl": "Committee Meetings#:#1086#/#HR Committee#:#1311",
+                "itemSize": "1582751",
+                "itemUploadedBy": "",
+                "itemBriefcaseType": "2",
+                "itemLastUpdatedOn": "1567415131",
+                "itemCreatedOn": "1567415131"
+            }
+        ]
+    },
+    "InvalidAccessToken": "0"
+}

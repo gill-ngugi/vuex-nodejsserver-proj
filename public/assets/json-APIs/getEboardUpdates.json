@@ -1,0 +1,53 @@
+{
+    "isDeviceVerified": "0",
+    "success": 1,
+    "InvalidAccessToken": "0",
+    "eboardversion": "2.5.7",
+    "eboardAndroidVersion": "1.4.0",
+    "KnowledgeWearUrl": "https://eboard.stl-horizon.com",
+    "feedbackUrl": "https://feedback.stl-horizon.com/",
+    "message": "Eboard data",
+    "licence": {
+        "pspdfkit": {
+            "name": "pspdfkit",
+            "key": "kSbKy8+oRpYTY6U33tRiRtvoggk3ggOM0zfvvF3icIeXVhqGe2MNYzGgGRe1yuTJ82Q0Vhv7wTGs9Z1HLZLKprXtbbARu9YH8cIDN/HuHyUdMI2Dap/3vXZSxtMXEFPkwJ5vqyIzaASqnaUPoY9uXJXy5gJqUFJrDolgJmxl1YMy29I9dCBcSsUrHd/CEYkUA7Ix7sN3dZqhmhZm8RS7aXmnyybs0fSgJH/wxzTds4E2lnvnOAmLP6jovqG8d7sO9plXK36UESr404wWOyOgpB6wS2nNsPfs0ieK6cVaIwKT9BZlSm+EvUphe66/i/1Ii++sNTVisXxCvzen247pDZdz2MAg5urw6/uizNDo5D1Xz9HWbSC61fnnTAVtbryzEfKoPmF1zl7wHMNXXyiO7o9V48W8rObtomEDrXDg9r8fbxmKixEGVLkFi9tAi6aDqXP8/a2Z23ZbB1f4Dn0VBZpoopuZRcDKT6VwkM2yDMk53ZPiqG7ys1Sj3/jfNIwJBxAE3mJXFz7CU98P83mZFyyUSP09wpheeUY7y8TTlsiQtBFrNVcb8rmywsol6mKE",
+            "secret": "",
+            "passphrase": "",
+            "isValid": "0"
+        }
+    },
+    "userLanguage": {
+        "languageId": "1",
+        "language": "English"
+    },
+    "allLanguages": [
+        {
+            "languageId": "1",
+            "language": "English"
+        },
+        {
+            "languageId": "2",
+            "language": "French"
+        },
+        {
+            "languageId": "8",
+            "language": "Amharic"
+        },
+        {
+            "languageId": "110",
+            "language": "Portuguese"
+        }
+    ],
+    "autoLogoutUser": 0,
+    "disableEboardApp": 0,
+    "remoteWipeBriefcase": "0",
+    "allowSharing": "Y",
+    "lastBackupDate": "1569575479",
+    "videoConferenceCredentials": {
+        "userVideoLogin": "",
+        "userVideoEmail": "",
+        "userVideoPassword": ""
+    },
+    "feedbackColor": "#337ab7",
+    "enableNewMeetingModule": 1
+}

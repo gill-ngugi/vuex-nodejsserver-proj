@@ -1,0 +1,153 @@
+{
+    "passwordPolicy": [
+        "password length: 4",
+        "lower case letters: optional",
+        "upper case letters: optional",
+        "digits: optional",
+        "special characters: optional"
+    ],
+    "licencePolicyUrl": "http://eboard.stl-horizon.com/php/license.pdf",
+    "licencePolicyUrlHtml": "http://eserver1.stl-horizon.com/api/frontend/web/license/license.html",
+    "userId": "107",
+    "isDeviceVerified": "0",
+    "success": "1",
+    "message": "Login Successfull",
+    "accessToken": "f304f4cc8994ddb78ca1c8fa66f18486",
+    "timeStamp": "1576586106",
+    "briefCaseTimeStamp": "1573821306",
+    "companyDetail": {
+        "companyName": "STL Vision",
+        "companyId": "2",
+        "companyCode": "010",
+        "supportEmail": "eboardsupport@stl-horizon.com,jaswinder@stl-horizon.com, michael@stl-horizon.com",
+        "reportIssueEmail": "eboardsupport@stl-horizon.com,jaswinder@stl-horizon.com, michael@stl-horizon.com",
+        "companyLogo": "http://eserver1.stl-horizon.com/api_v9/frontend/web/user/files?companyCode=010&actionTypes=getCompanyLogo&ImageId=72"
+    },
+    "messageInfo": [
+        {
+            "idUser": "27",
+            "groupName": "Chairman",
+            "mesage": "\"I am geared-up to forge ahead\nand make Vision Company to be the best Market Authority in the region.\"",
+            "fullMesage": "\"I am geared-up to forge ahead\nand make Vision Company to be the best Market Authority in the region.\"",
+            "fullName": "Jaswinder Gahir",
+            "imageUrl": "http://eserver1.stl-horizon.com/api_v9/frontend/web/user/files?companyCode=010&actionTypes=getUserImages&ImageId=39"
+        }
+    ],
+    "userInfo": {
+        "userFullName": "GILLIAN NGUGI",
+        "userName": "gngugi",
+        "userEmail": "gillian@stl-horizon.com",
+        "companyName": "STL Vision",
+        "userPhone": "",
+        "userDesignation": "Administrator",
+        "userImageId": "",
+        "imageUrl": "",
+        "userId": "107"
+    },
+    "passwordExpiry": "0",
+    "userLanguage": {
+        "languageId": "1",
+        "language": "English"
+    },
+    "allLanguages": [
+        {
+            "languageId": "1",
+            "language": "English"
+        },
+        {
+            "languageId": "2",
+            "language": "French"
+        },
+        {
+            "languageId": "3",
+            "language": "Swahili"
+        }
+    ],
+    "dashboardMenuList": [
+        {
+            "menuId": "6",
+            "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/discussions@2x.png",
+            "menuCount": 0,
+            "menuColor": "78,115,223",
+            "menuTitle": "Discussion",
+            "isEnable": "1"
+        },
+        {
+            "menuId": "8",
+            "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/conference@2x.png",
+            "menuCount": 0,
+            "menuColor": "253,113,6",
+            "menuTitle": "Conference",
+            "isEnable": "1"
+        },
+        {
+            "menuId": "5",
+            "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/Evaluation_icon@2x.png",
+            "menuCount": 0,
+            "menuColor": "72,61,139",
+            "menuTitle": "Evaluation",
+            "isEnable": "1"
+        },
+        {
+            "menuId": "4",
+            "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/Compliance@2x.png",
+            "menuCount": 0,
+            "menuColor": "162,29,33",
+            "menuTitle": "Compliance",
+            "isEnable": "1"
+        },
+        {
+            "menuId": "3",
+            "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/Approvals_icon@2x.png",
+            "menuCount": 0,
+            "menuColor": "71,183,83",
+            "menuTitle": "Approvals",
+            "isEnable": "1"
+        },
+        {
+            "menuId": "2",
+            "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/resource_icon@2x.png",
+            "menuCount": 0,
+            "menuColor": "227,58,58",
+            "menuTitle": "Resources",
+            "isEnable": "1"
+        },
+        {
+            "menuId": "1",
+            "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/meetingpacks_icon@2x.png",
+            "menuCount": 0,
+            "menuColor": "86,182,229",
+            "menuTitle": "Meeting Packs",
+            "isEnable": "1"
+        },
+        {
+            "menuId": "0",
+            "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/briefcase@2x.png",
+            "menuCount": 0,
+            "menuColor": "205,143,41",
+            "menuTitle": "Briefcase",
+            "isEnable": "1"
+        },
+        {
+            "menuId": "9",
+            "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/plans.png",
+            "menuCount": 0,
+            "menuColor": "38,172,194",
+            "menuTitle": "Plans",
+            "isEnable": "1"
+        },
+        {
+            "menuId": "11",
+            "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/meetingpacks_icon@2x.png",
+            "menuCount": 0,
+            "menuColor": "86,182,229",
+            "menuTitle": "Meetings",
+            "isEnable": "1"
+        }
+    ],
+    "videoConferenceCredentials": {
+        "userVideoLogin": "",
+        "userVideoEmail": "",
+        "userVideoPassword": ""
+    }
+}

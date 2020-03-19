@@ -1,0 +1,64 @@
+{
+    "success": 1,
+    "InvalidAccessToken": "0",
+    "message": "Notifications Found",
+    "notificationsList": [
+        {
+            "companyId": "2",
+            "companyName": "STL Vision",
+            "module_name": "Document Management",
+            "module_id": "1",
+            "notificationTitle": "Upcoming  HR & Admin  Committee ",
+            "notificationType": "0",
+            "notificationDateTime": "1571702400"
+        },
+        {
+            "companyId": "2",
+            "companyName": "STL Vision",
+            "module_name": "Document Management",
+            "module_id": "1",
+            "notificationTitle": "Upcoming  Technical Committee ",
+            "notificationType": "0",
+            "notificationDateTime": "1571270400"
+        },
+        {
+            "companyId": "2",
+            "companyName": "STL Vision",
+            "module_name": "Document Management",
+            "module_id": "1",
+            "notificationTitle": "Upcoming Audit Committee ",
+            "notificationType": "0",
+            "notificationDateTime": "1570665600"
+        }
+    ],
+
+    "taskList": [
+        {
+            "companyId": "2",
+            "companyName": "STL Training Env.",
+            "module_name": "Document Management",
+            "module_id": "1",
+            "taskTitle": "Upcoming  HR & Admin  Committee ",
+            "taskType": "0",
+            "taskDateTime": "1571702400"
+        },
+        {
+            "companyId": "2",
+            "companyName": "STL Training Env.",
+            "module_name": "Document Management",
+            "module_id": "1",
+            "taskTitle": "Upcoming  Technical Committee ",
+            "taskType": "0",
+            "taskDateTime": "1571270400"
+        },
+        {
+            "companyId": "2",
+            "companyName": "STL Training Env.",
+            "module_name": "Document Management",
+            "module_id": "1",
+            "taskTitle": "Upcoming Audit Committee ",
+            "taskType": "0",
+            "taskDateTime": "1570665600"
+        }
+    ]
+}

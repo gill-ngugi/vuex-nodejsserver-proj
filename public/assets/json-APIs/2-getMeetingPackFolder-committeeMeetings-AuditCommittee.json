@@ -1,0 +1,52 @@
+{
+    "success": 1,
+    "message": "Meeting Pack Folder Contents",
+    "data": {
+        "itemId": "1309",
+        "companyName": "STL Vision",
+        "itemBriefcaseType": "2",
+        "companyId": "2",
+        "itemParentId": "1086",
+        "itemName": "Audit Committee",
+        "itemType": "1",
+        "itemUrl": "Committee Meetings#:#1086#/#Audit Committee#:#1309",
+        "itemSize": "2158319",
+        "itemUploadedBy": "",
+        "itemLastUpdatedOn": "1567415198",
+        "itemCreatedOn": "1567415198",
+        "itemCount": 2,
+        "itemSubArray": [
+            {
+                "itemId": "1316",
+                "companyName": "STL Vision",
+                "companyId": "2",
+                "itemCount": 5,
+                "itemName": "4th Audit Committee (12.06.2019)",
+                "itemParentId": "1309",
+                "itemType": "1",
+                "itemUrl": "Committee Meetings#:#1086#/#Audit Committee#:#1309#/#4th Audit Committee (12.06.2019)#:#1316",
+                "itemSize": "1047321",
+                "itemUploadedBy": "",
+                "itemBriefcaseType": "2",
+                "itemLastUpdatedOn": "1567415198",
+                "itemCreatedOn": "1567415198"
+            },
+            {
+                "itemId": "1315",
+                "companyName": "STL Vision",
+                "companyId": "2",
+                "itemCount": 5,
+                "itemName": "5th Audit Committee (12.08.2019)",
+                "itemParentId": "1309",
+                "itemType": "1",
+                "itemUrl": "Committee Meetings#:#1086#/#Audit Committee#:#1309#/#5th Audit Committee (12.08.2019)#:#1315",
+                "itemSize": "1110998",
+                "itemUploadedBy": "",
+                "itemBriefcaseType": "2",
+                "itemLastUpdatedOn": "1567415182",
+                "itemCreatedOn": "1567415182"
+            }
+        ]
+    },
+    "InvalidAccessToken": "0"
+}

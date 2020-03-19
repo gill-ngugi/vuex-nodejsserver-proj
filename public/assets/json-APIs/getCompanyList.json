@@ -1,0 +1,421 @@
+{
+    "success": 1,
+    "InvalidAccessToken": "0",
+    "message": "Companies Found",
+    "companyList": [
+        {
+            "companyId": "2",
+            "companyName": "STL Vision",
+            "companyLogo": "http://eserver1.stl-horizon.com/api_v9/frontend/web/user/files?companyId=2&userId=45&companyCode=010&actionTypes=getCompanyLogo&ImageId=72",
+            "companyCode": "010",
+            "allowSharing": "Y",
+            "passwordPolicy": [
+                "password length: 4",
+                "lower case letters: optional",
+                "upper case letters: optional",
+                "digits: optional",
+                "special characters: optional"
+            ],
+            "reportIssueEmail": "eboardsupport@stl-horizon.com,jaswinder@stl-horizon.com, michael@stl-horizon.com",
+            "supportEmail": "eboardsupport@stl-horizon.com,jaswinder@stl-horizon.com, michael@stl-horizon.com",
+            "dashboardMenuList": [
+                {
+                    "menuId": "6",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/discussions@2x.png",
+                    "menuCount": 0,
+                    "menuColor": "78,115,223",
+                    "menuTitle": "Discussion",
+                    "isEnable": "1"
+                },
+                {
+                    "menuId": "8",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/conference@2x.png",
+                    "menuCount": 0,
+                    "menuColor": "253,113,6",
+                    "menuTitle": "Conference",
+                    "isEnable": "1"
+                },
+                {
+                    "menuId": "5",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/Evaluation_icon@2x.png",
+                    "menuCount": 0,
+                    "menuColor": "72,61,139",
+                    "menuTitle": "Evaluation",
+                    "isEnable": "1"
+                },
+                {
+                    "menuId": "4",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/Compliance@2x.png",
+                    "menuCount": 0,
+                    "menuColor": "162,29,33",
+                    "menuTitle": "Compliance",
+                    "isEnable": "1"
+                },
+                {
+                    "menuId": "3",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/Approvals_icon@2x.png",
+                    "menuCount": 0,
+                    "menuColor": "71,183,83",
+                    "menuTitle": "Approvals",
+                    "isEnable": "1"
+                },
+                {
+                    "menuId": "2",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/resource_icon@2x.png",
+                    "menuCount": 0,
+                    "menuColor": "227,58,58",
+                    "menuTitle": "Resources",
+                    "isEnable": "1"
+                },
+                {
+                    "menuId": "1",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/meetingpacks_icon@2x.png",
+                    "menuCount": 0,
+                    "menuColor": "86,182,229",
+                    "menuTitle": "Meeting Packs",
+                    "isEnable": "1"
+                },
+                {
+                    "menuId": "0",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/briefcase@2x.png",
+                    "menuCount": 0,
+                    "menuColor": "205,143,41",
+                    "menuTitle": "Briefcase",
+                    "isEnable": "1"
+                },
+                {
+                    "menuId": "9",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/plans.png",
+                    "menuCount": 0,
+                    "menuColor": "38,172,194",
+                    "menuTitle": "Plans",
+                    "isEnable": "1"
+                },
+                {
+                    "menuId": "11",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/meetingpacks_icon@2x.png",
+                    "menuCount": 0,
+                    "menuColor": "86,182,229",
+                    "menuTitle": "Meetings",
+                    "isEnable": "1"
+                }
+            ],
+            "messageInfo": [
+                {
+                    "idUser": "27",
+                    "groupName": "Chairman",
+                    "mesage": "\"I am geared-up to forge ahead\nand make Vision Company to be the best Market Authority in the region.\"",
+                    "fullMesage": "\"I am geared-up to forge ahead\nand make Vision Company to be the best Market Authority in the region.\"",
+                    "fullName": "Jaswinder Gahir",
+                    "imageUrl": "http://eserver1.stl-horizon.com/api_v9/frontend/web/user/files?companyCode=010&actionTypes=getUserImages&ImageId=39"
+                }
+            ]
+        },
+        {
+            "companyId": "3",
+            "companyName": "Computer Warehouse Group",
+            "companyLogo": "http://eserver1.stl-horizon.com/api_v9/frontend/web/user/files?companyId=2&userId=45&companyCode=010&actionTypes=getCompanyLogo&ImageId=82",
+            "companyCode": "010",
+            "allowSharing": "Y",
+            "passwordPolicy": [
+                "password length: optional",
+                "lower case letters: optional",
+                "upper case letters: optional",
+                "digits: optional",
+                "special characters: optional"
+            ],
+            "reportIssueEmail": "eboardsupport@stl-horizon.com,jaswinder@stl-horizon.com, michael@stl-horizon.com",
+            "supportEmail": "eboardsupport@stl-horizon.com,jaswinder@stl-horizon.com, michael@stl-horizon.com",
+            "dashboardMenuList": [
+                {
+                    "menuId": "6",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/discussions@2x.png",
+                    "menuCount": 0,
+                    "menuColor": "78,115,223",
+                    "menuTitle": "Discussion",
+                    "isEnable": "1"
+                },
+                {
+                    "menuId": "8",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/conference@2x.png",
+                    "menuCount": 0,
+                    "menuColor": "253,113,6",
+                    "menuTitle": "Conference",
+                    "isEnable": "1"
+                },
+                {
+                    "menuId": "5",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/Evaluation_icon@2x.png",
+                    "menuCount": 0,
+                    "menuColor": "72,61,139",
+                    "menuTitle": "Evaluation",
+                    "isEnable": "1"
+                },
+                {
+                    "menuId": "4",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/Compliance@2x.png",
+                    "menuCount": 0,
+                    "menuColor": "162,29,33",
+                    "menuTitle": "Compliance",
+                    "isEnable": "1"
+                },
+                {
+                    "menuId": "3",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/Approvals_icon@2x.png",
+                    "menuCount": 0,
+                    "menuColor": "71,183,83",
+                    "menuTitle": "Approvals",
+                    "isEnable": "1"
+                },
+                {
+                    "menuId": "2",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/resource_icon@2x.png",
+                    "menuCount": 0,
+                    "menuColor": "227,58,58",
+                    "menuTitle": "Resources",
+                    "isEnable": "1"
+                },
+                {
+                    "menuId": "1",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/meetingpacks_icon@2x.png",
+                    "menuCount": 0,
+                    "menuColor": "86,182,229",
+                    "menuTitle": "Meeting Packs",
+                    "isEnable": "1"
+                },
+                {
+                    "menuId": "0",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/briefcase@2x.png",
+                    "menuCount": 0,
+                    "menuColor": "205,143,41",
+                    "menuTitle": "Briefcase",
+                    "isEnable": "1"
+                },
+                {
+                    "menuId": "9",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/plans.png",
+                    "menuCount": 0,
+                    "menuColor": "38,172,194",
+                    "menuTitle": "Plans",
+                    "isEnable": "1"
+                },
+                {
+                    "menuId": "11",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/meetingpacks_icon@2x.png",
+                    "menuCount": 0,
+                    "menuColor": "86,182,229",
+                    "menuTitle": "Meetings",
+                    "isEnable": "1"
+                }
+            ],
+            "messageInfo": []
+        },
+        {
+            "companyId": "10",
+            "companyName": "Vision Uganda",
+            "companyLogo": "",
+            "companyCode": "010",
+            "allowSharing": "Y",
+            "passwordPolicy": [
+                "password length: optional",
+                "lower case letters: optional",
+                "upper case letters: optional",
+                "digits: optional",
+                "special characters: optional"
+            ],
+            "reportIssueEmail": "eboardsupport@stl-horizon.com,jaswinder@stl-horizon.com, michael@stl-horizon.com",
+            "supportEmail": "eboardsupport@stl-horizon.com,jaswinder@stl-horizon.com, michael@stl-horizon.com",
+            "dashboardMenuList": [
+                {
+                    "menuId": "6",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/discussions@2x.png",
+                    "menuCount": 0,
+                    "menuColor": "78,115,223",
+                    "menuTitle": "Discussion",
+                    "isEnable": "1"
+                },
+                {
+                    "menuId": "8",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/conference@2x.png",
+                    "menuCount": 0,
+                    "menuColor": "253,113,6",
+                    "menuTitle": "Conference",
+                    "isEnable": "1"
+                },
+                {
+                    "menuId": "5",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/Evaluation_icon@2x.png",
+                    "menuCount": 0,
+                    "menuColor": "72,61,139",
+                    "menuTitle": "Evaluation",
+                    "isEnable": "1"
+                },
+                {
+                    "menuId": "4",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/Compliance@2x.png",
+                    "menuCount": 0,
+                    "menuColor": "162,29,33",
+                    "menuTitle": "Compliance",
+                    "isEnable": "1"
+                },
+                {
+                    "menuId": "3",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/Approvals_icon@2x.png",
+                    "menuCount": 0,
+                    "menuColor": "71,183,83",
+                    "menuTitle": "Approvals",
+                    "isEnable": "1"
+                },
+                {
+                    "menuId": "2",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/resource_icon@2x.png",
+                    "menuCount": 0,
+                    "menuColor": "227,58,58",
+                    "menuTitle": "Resources",
+                    "isEnable": "1"
+                },
+                {
+                    "menuId": "1",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/meetingpacks_icon@2x.png",
+                    "menuCount": 0,
+                    "menuColor": "86,182,229",
+                    "menuTitle": "Meeting Packs",
+                    "isEnable": "1"
+                },
+                {
+                    "menuId": "0",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/briefcase@2x.png",
+                    "menuCount": 0,
+                    "menuColor": "205,143,41",
+                    "menuTitle": "Briefcase",
+                    "isEnable": "1"
+                },
+                {
+                    "menuId": "9",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/plans.png",
+                    "menuCount": 0,
+                    "menuColor": "38,172,194",
+                    "menuTitle": "Plans",
+                    "isEnable": "1"
+                },
+                {
+                    "menuId": "11",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/meetingpacks_icon@2x.png",
+                    "menuCount": 0,
+                    "menuColor": "86,182,229",
+                    "menuTitle": "Meetings",
+                    "isEnable": "1"
+                }
+            ],
+            "messageInfo": []
+        },
+        {
+            "companyId": "21",
+            "companyName": "stl bethuel",
+            "companyLogo": "http://eserver1.stl-horizon.com/api_v9/frontend/web/user/files?companyId=2&userId=45&companyCode=010&actionTypes=getCompanyLogo&ImageId=86",
+            "companyCode": "010",
+            "allowSharing": "Y",
+            "passwordPolicy": [
+                "password length: 4",
+                "lower case letters: optional",
+                "upper case letters: optional",
+                "digits: optional",
+                "special characters: optional"
+            ],
+            "reportIssueEmail": "eboardsupport@stl-horizon.com,jaswinder@stl-horizon.com, michael@stl-horizon.com",
+            "supportEmail": "eboardsupport@stl-horizon.com,jaswinder@stl-horizon.com, michael@stl-horizon.com",
+            "dashboardMenuList": [
+                {
+                    "menuId": "6",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/discussions@2x.png",
+                    "menuCount": 0,
+                    "menuColor": "78,115,223",
+                    "menuTitle": "Discussion",
+                    "isEnable": "1"
+                },
+                {
+                    "menuId": "8",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/conference@2x.png",
+                    "menuCount": 0,
+                    "menuColor": "253,113,6",
+                    "menuTitle": "Conference",
+                    "isEnable": "1"
+                },
+                {
+                    "menuId": "5",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/Evaluation_icon@2x.png",
+                    "menuCount": 0,
+                    "menuColor": "72,61,139",
+                    "menuTitle": "Evaluation",
+                    "isEnable": "1"
+                },
+                {
+                    "menuId": "4",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/Compliance@2x.png",
+                    "menuCount": 0,
+                    "menuColor": "162,29,33",
+                    "menuTitle": "Compliance",
+                    "isEnable": "1"
+                },
+                {
+                    "menuId": "3",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/Approvals_icon@2x.png",
+                    "menuCount": 0,
+                    "menuColor": "71,183,83",
+                    "menuTitle": "Approvals",
+                    "isEnable": "1"
+                },
+                {
+                    "menuId": "2",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/resource_icon@2x.png",
+                    "menuCount": 0,
+                    "menuColor": "227,58,58",
+                    "menuTitle": "Resources",
+                    "isEnable": "1"
+                },
+                {
+                    "menuId": "1",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/meetingpacks_icon@2x.png",
+                    "menuCount": 0,
+                    "menuColor": "86,182,229",
+                    "menuTitle": "Meeting Packs",
+                    "isEnable": "1"
+                },
+                {
+                    "menuId": "0",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/briefcase@2x.png",
+                    "menuCount": 0,
+                    "menuColor": "205,143,41",
+                    "menuTitle": "Briefcase",
+                    "isEnable": "1"
+                },
+                {
+                    "menuId": "9",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/plans.png",
+                    "menuCount": 0,
+                    "menuColor": "38,172,194",
+                    "menuTitle": "Plans",
+                    "isEnable": "1"
+                },
+                {
+                    "menuId": "11",
+                    "menuImageUrl": "https://eboard.stl-horizon.com/devices/images/icons/meetingpacks_icon@2x.png",
+                    "menuCount": 0,
+                    "menuColor": "86,182,229",
+                    "menuTitle": "Meetings",
+                    "isEnable": "1"
+                }
+            ],
+            "messageInfo": [
+                {
+                    "idUser": "27",
+                    "groupName": "Other Members  evaluation",
+                    "mesage": "Christmas is considered to be one of the most joyous times of year, filled with festivities and gift giving.",
+                    "fullMesage": "Christmas is considered to be one of the most joyous times of year, filled with festivities and gift giving. For businesses, this is also a great time to show appreciation to your employees for the time and dedication they spent throughout the year. A selection of Christmas messages to employees most commonly used by businesses is provided below. These are intended to help inspire your own creativity and sincere message this year.\t\t\t",
+                    "fullName": "Jaswinder Gahir",
+                    "imageUrl": "http://eserver1.stl-horizon.com/api_v9/frontend/web/user/files?companyCode=010&actionTypes=getUserImages&ImageId=39"
+                }
+            ]
+        }
+    ]
+}

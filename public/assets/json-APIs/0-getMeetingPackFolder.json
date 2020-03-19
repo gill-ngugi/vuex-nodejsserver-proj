@@ -1,0 +1,49 @@
+{
+    "success": 1,
+    "message": "Meeting Pack Folder Contents",
+    "data": {
+        "itemId": "0",
+        "itemParentId": "0",
+        "itemType": "1",
+        "itemUrl": "",
+        "itemSize": "0",
+        "itemUploadedBy": "",
+        "itemLastUpdatedOn": "0",
+        "itemCreatedOn": "0",
+        "itemName": "Meeting pack",
+        "itemCount": 2,
+        "itemSubArray": [
+            {
+                "itemId": "4",
+                "companyName": "STL Vision",
+                "companyId": "2",
+                "itemCount": 10,
+                "itemName": "Board Meetings",
+                "itemParentId": "0",
+                "itemType": "1",
+                "itemUrl": "Board Meetings#:#4",
+                "itemSize": "9618410",
+                "itemUploadedBy": "",
+                "itemBriefcaseType": "2",
+                "itemLastUpdatedOn": "1571129755",
+                "itemCreatedOn": "1571129755"
+            },
+            {
+                "itemId": "1086",
+                "companyName": "STL Vision",
+                "companyId": "2",
+                "itemCount": 3,
+                "itemName": "Committee Meetings",
+                "itemParentId": "0",
+                "itemType": "1",
+                "itemUrl": "Committee Meetings#:#1086",
+                "itemSize": "5900451",
+                "itemUploadedBy": "",
+                "itemBriefcaseType": "2",
+                "itemLastUpdatedOn": "1567607540",
+                "itemCreatedOn": "1567607540"
+            }
+        ]
+    },
+    "InvalidAccessToken": "0"
+}
